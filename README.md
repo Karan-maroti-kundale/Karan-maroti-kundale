@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-maroti-kundale&label=Profile%20views&color=0e75b6&style=flat" alt="karan-maroti-kundale" /> </p>
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/Responsive%20Portfolio%20Website%20Starter](http://127.0.0.1:5500/Responsive%20Portfolio%20Website%20Starter)
+- 👨‍💻 All of my projects are available at [[http://127.0.0.1:5500/Responsive%20Portfolio%20Website%20Starter](http://127.0.0.1:5500/Responsive%20Portfolio%20Website%20Starter)](https://karankundale.netlify.app/)
 
 - ⚡ Fun fact **I am always happy😊**
 
