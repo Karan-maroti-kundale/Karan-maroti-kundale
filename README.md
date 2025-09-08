@@ -1,12 +1,12 @@
 ![logo](https://github.com/Karan-maroti-kundale/Karan-maroti-kundale/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Karan maroti Kundale</h1>
-<h3 align="center">🎓I'm a Computer Science & Engineering (CSE) student specialising in Artificial Intelligence and Machine Learning (AIML).</h3>
+<h1 align="centre">Hi 👋, I'm Karan maroti Kundale</h1>
+<h3 align="centre">🎓I'm a Computer Science & Engineering (CSE) student specialising in Artificial Intelligence and Machine Learning (AIML).</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-maroti-kundale&label=Profile%20views&color=0e75b6&style=flat" alt="karan-maroti-kundale" /> </p>
 
-- 👨‍💻 All of my projects are available at [[http://127.0.0.1:5500/Responsive%20Portfolio%20Website%20Starter](http://127.0.0.1:5500/Responsive%20Portfolio%20Website%20Starter)](https://karankundale.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://karankundale.netlify.app/]
 
 - ⚡ Fun fact **I am always happy😊**
 
